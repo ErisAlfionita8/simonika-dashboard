@@ -1,0 +1,13 @@
+# Salin ke .streamlit/config.toml
+[theme]
+base = "light"
+primaryColor = "#3f6593"
+backgroundColor = "#f6fbff"
+secondaryBackgroundColor = "#d6ebfb"
+textColor = "#000f22"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

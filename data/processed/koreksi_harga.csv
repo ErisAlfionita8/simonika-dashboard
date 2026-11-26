@@ -1,0 +1,12 @@
+﻿tanggal,pasar,komoditas_baku,harga_asli,harga_benar,alasan
+2024-07-15,Pabean,Telur Ayam Kampung,23000,2300,kelebihan satu nol
+2025-06-15,Pucang Anom,Tomat,250000,25000,kelebihan satu nol
+2025-06-16,Pucang Anom,Tomat,250000,25000,kelebihan satu nol
+2025-06-17,Pucang Anom,Tomat,250000,25000,kelebihan satu nol
+2025-09-20,Pucang Anom,Buncis,150000,15000,kelebihan satu nol
+2025-09-21,Pucang Anom,Buncis,150000,15000,kelebihan satu nol
+2025-05-09,Pabean,Tomat,2000,12000,angka depan hilang (dugaan; median hari itu 12.000)
+2025-05-10,Pabean,Tomat,2000,12000,angka depan hilang (dugaan; median hari itu 12.000)
+2025-05-11,Pabean,Tomat,2000,12000,angka depan hilang (dugaan; median hari itu 12.000)
+2025-05-12,Pabean,Tomat,2000,12000,angka depan hilang (dugaan; median hari itu 12.000)
+2025-05-13,Pabean,Tomat,2000,12000,angka depan hilang (dugaan; median hari itu 12.000)
